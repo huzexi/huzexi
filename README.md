@@ -20,4 +20,4 @@
 > [:earth_asia:[GitHub]](https://github.com/huzexi/MTM) [:orange_book:[IEEE Xplore]](https://ieeexplore.ieee.org/document/7532649)  [:page_with_curl:[arXiv]](https://arxiv.org/abs/1603.00132)
 
 
-![](https://komarev.com/ghpvc/?username=huzexi)
+![](https://visitor-badge.glitch.me/badge?page_id=huzexi.github.io)

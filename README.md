@@ -5,7 +5,7 @@
 <a href="https://orcid.org/0000-0003-4947-4832"><img align="center" src="assets/icons/orcid.svg" alt="ORCID" height="20" width="20" /></a>
   
 > **Texture-enhanced Light Field Super-resolution with Spatio-Angular Decomposition Kernels**   
-> Zexi Hu, Xiaoming Chen, Henry Wing Fung Yeung, Yuk Ying Chung, Zhibo Chen
+> Zexi Hu, Xiaoming Chen, Henry Wing Fung Yeung, Yuk Ying Chung, Zhibo Chen   
 > IEEE Transactions on Instrumentation and Measurement (2022)  
 > [:orange_book:[IEEE Xplore]](https://ieeexplore.ieee.org/document/9721149)  [:page_with_curl:[arXiv]](https://arxiv.org/abs/2111.04069)
   

@@ -1,9 +1,14 @@
-<h1 align="center">Zexi Hu's Homepage</h1>
+<h1 align="center">Zeke Zexi Hu's Homepage</h1>
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=1-i0UYUAAAAJ"><img align="center" src="assets/icons/googlescholar.png" alt="Google Scholar" height="20" width="20" /></a>
 <a href="https://orcid.org/0000-0003-4947-4832"><img align="center" src="assets/icons/orcid.svg" alt="ORCID" height="20" width="20" /></a>
-  
+    
+> **Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**   
+> Zeke Zexi Hu, Xiaoming Chen, Vera Yuk Ying Chung, Yiran Shen
+> IEEE Transactions on Multimedia (2024)  
+> [:floppy_disk:[GitHub]](https://github.com/huzexi/M2MT-Net) [:orange_book:[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10812790)  [:page_with_curl:[arXiv]](https://arxiv.org/abs/2401.00740)
+
 > **Texture-enhanced Light Field Super-resolution with Spatio-Angular Decomposition Kernels**   
 > Zexi Hu, Xiaoming Chen, Henry Wing Fung Yeung, Yuk Ying Chung, Zhibo Chen   
 > IEEE Transactions on Instrumentation and Measurement (2022)  
@@ -24,5 +29,3 @@
 > 2016 IEEE International Conference on Image Processing (ICIP)   
 > [:floppy_disk:[GitHub]](https://github.com/huzexi/MTM) [:orange_book:[IEEE Xplore]](https://ieeexplore.ieee.org/document/7532649)  [:page_with_curl:[arXiv]](https://arxiv.org/abs/1603.00132)
 
-
-![](https://komarev.com/ghpvc/?username=huzexi)

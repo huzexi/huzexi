@@ -5,7 +5,7 @@
 <a href="https://orcid.org/0000-0003-4947-4832"><img align="center" src="assets/icons/orcid.svg" alt="ORCID" height="20" width="20" /></a>
     
 > **Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution**   
-> Zeke Zexi Hu, Xiaoming Chen, Vera Yuk Ying Chung, Yiran Shen
+> Zeke Zexi Hu, Xiaoming Chen, Vera Yuk Ying Chung, Yiran Shen   
 > IEEE Transactions on Multimedia (2024)  
 > [:floppy_disk:[GitHub]](https://github.com/huzexi/M2MT-Net) [:orange_book:[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10812790)  [:page_with_curl:[arXiv]](https://arxiv.org/abs/2401.00740)
 
